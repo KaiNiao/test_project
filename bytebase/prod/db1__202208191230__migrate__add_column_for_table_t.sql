@@ -1,1 +1,1 @@
-alter table t add column a varchar(10) default '' comment 'a';
+alter table t add column c int;
